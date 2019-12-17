@@ -17,4 +17,4 @@ Actividad de limites de acceso
 ## by Pepe el Palotes
 Contenido disponible en: [maciacastillo.github.io/FTP4/](https://maciacastillo.github.io/FTP4)
 
-[Actividad1](actividad1.md)
+[Viajar a la Actividad1](actividad1.md)
