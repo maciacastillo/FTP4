@@ -1,5 +1,7 @@
 # Actividad FTP4
 
+Realiza los siguientes ejercicios.
+
 1. Nombra los modos de conexión del cliente al servidor FTP que existen.
 
 1. ¿En qué modo el cliente envía un comando **PASV** para establecer conexión con el servidor? ¿Y cuál
