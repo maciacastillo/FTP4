@@ -1,4 +1,4 @@
-# Actividad FTP4
+# Actividad: Modos de acceso
 
 Realiza los siguientes ejercicios.
 
