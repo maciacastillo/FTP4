@@ -16,5 +16,5 @@ conexión de entrada en un puerto mayor a 1024. ¿De qué modo se trata?
 
 1. Indica a que modo pertenece la siguiente imagen:
 
-![Imagen2](420px-Pasivo.svg.jpg)
+![ImagenActivo](420px-Activo.svg.png)
 
