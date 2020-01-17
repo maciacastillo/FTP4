@@ -21,4 +21,4 @@ utiliza el comando **PORT**?
 
 1. Nombra los dos tipos de transferencia de archivos que existen en el protocolo FTP e indica sus diferencias.
 
-[Respuestas](https://github.com/maciacastillo/FTP4/blob/master/Respuestas%20FTP4)
+[Respuestas](https://github.com/maciacastillo/FTP4/blob/master/Respuestas%20FTP4.md)
