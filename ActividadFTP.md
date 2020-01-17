@@ -17,7 +17,7 @@ utiliza el comando **PORT**?
 
 ![ImagenActivo](420px-Activo.svg.png) 
 
-1. Di 3 ejemplos de clientes FTP.
+1. Enumera 3 ejemplos de clientes FTP.
 
 1. Nombra los dos tipos de transferencia de archivos que existen en el protocolo FTP e indica sus diferencias.
 
