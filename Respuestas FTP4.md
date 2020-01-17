@@ -2,6 +2,7 @@
 
 1. ¿Qué significan las siglas **FTP**?
 
+ **R:File Transfer Protocol o FTP
 
 2. ¿En qué consiste el protocolo FTP?
 
