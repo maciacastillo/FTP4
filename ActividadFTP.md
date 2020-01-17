@@ -6,7 +6,7 @@
 
 1. ¿En qué consiste el protocolo FTP?
 
-1. Existen dos modos de conexión al servidor FTP.Indica cuales son.
+1. Existen dos modos de conexión al servidor FTP. Indica cuales son.
 
 1. ¿Por qué existen dos modos de conexión?
 
