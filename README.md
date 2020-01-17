@@ -1,7 +1,12 @@
-# FTP4
-
-**FTP (File Transfer Protocol)** es un protocolo de transferencia de archivos entre sistemas conectados a una red TCP basado en la arquitectura cliente-servidor, de manera que desde un equipo cliente nos podemos conectar a un servidor para descargar archivos desde él o para enviarle nuestros propios archivos independientemente del sistema operativo utilizado en cada equipo.
-
+# Protocolo FTP
+En este tema vamos a adentrarnos de lleno al Protocolo FTP. 
 
 
-[Ir a la actividad 4](./FTP4/ActividadFTP4.md)
+[Actividad de introducción al protocolo FTP](./FTP4/ActividadFTP4.md)
+
+En esta actividad vamos a tocar los siguientes apartados:
+* Utilidades del servicio FTP
+* Modos de acceso
+* Puertos y conexiones
+* Modos de transferencia
+
