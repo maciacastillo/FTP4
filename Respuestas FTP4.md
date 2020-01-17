@@ -1,6 +1,6 @@
 # ACTIVIDADES RESUELTAS FTP4
 
-**1. ¿Qué significan las siglas **FTP**?**
+**1. ¿Que significan las siglas **FTP**?**
 
  RE:File Transfer Protocol o Protocolo de transferencia de ficheros
 
