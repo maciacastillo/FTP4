@@ -1,20 +1,24 @@
 # Actividad: Modos de acceso
 
-Realiza los siguientes ejercicios.
+**Los siguientes ejercicios son una pequeña introducción al protocolo FTP, al final del ejercicio encontrarás las soluciones de los ejercicios para que puedas comparar la solución con tus respuestas.**
 
-1. Nombra los modos de conexión del cliente al servidor FTP que existen.
+1. ¿Qué significan las siglas **FTP**?
 
-1. ¿En qué modo el cliente envía un comando **PASV** para establecer conexión con el servidor? ¿Y cuál
+1. ¿En qué consiste el protocolo FTP?
+
+1. Existen dos modos de conexión al servidor FTP.Indica cuales son.
+
+1. ¿Por qué existen dos modos de conexión?
+
+1. ¿En qué modo de conexión el cliente envía un comando **PASV** para establecer conexión con el servidor? ¿Y cuál
 utiliza el comando **PORT**?
-
-1. Uno de estos modos tiene un problema de seguridad, ya que el cliente tiene que aceptar cualquier
-conexión de entrada en un puerto mayor a 1024. ¿De qué modo se trata?
-
-1. Independientemente del modo, ¿A qué puerto se dirige el cliente al servidor?
-
-1. Investiga como cambiar el modo de conexión en el cliente FTP **FileZilla**.
 
 1. Indica a que modo pertenece la siguiente imagen:
 
 ![ImagenActivo](420px-Activo.svg.png) 
 
+1. Di 3 ejemplos de clientes FTP.
+
+1. Nombra los dos tipos de transferencia de archivos que existen en el protocolo FTP e indica sus diferencias.
+
+[Respuestas](https://github.com/maciacastillo/FTP4/blob/master/Respuestas%20FTP4)
