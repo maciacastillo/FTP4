@@ -1,4 +1,4 @@
-# Actividad: Modos de acceso
+# Actividad: Introducción FTP
 
 **Los siguientes ejercicios son una pequeña introducción al protocolo FTP, al final del ejercicio encontrarás las soluciones de los ejercicios para que puedas comparar la solución con tus respuestas.**
 
