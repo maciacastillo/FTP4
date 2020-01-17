@@ -1,4 +1,4 @@
-#ACTIVIDADES RESUELTAS FTP4
+# ACTIVIDADES RESUELTAS FTP4
 
 **1. ¿Qué significan las siglas **FTP**?**
 
