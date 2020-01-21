@@ -15,6 +15,8 @@ RE:Modo Activo y Pasivo
 **4. ¿Por qué existen dos modos de conexión?**
 Al principio solo existía el modo activo, pero al tener graves problemas de seguridad al tener que aceptar peticiones del servidor FTP desde un puerto superior al 1024, se acabó desarrollando el modo pasivo.
 
+
+
 **5. ¿En qué modo de conexión el cliente envía un comando **PASV** para establecer conexión con el servidor? ¿Y cuál
 utiliza el comando **PORT**?**
 
