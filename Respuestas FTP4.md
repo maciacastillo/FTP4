@@ -29,15 +29,15 @@ RE:Pertenece al modo activo, una razón para saber que el modo es activo es que 
 **7. Di 3 ejemplos de clientes FTP.**
 
 
-RE:Asuk PHP FTP
-Weeble File Manager
-FileZilla
-net2ftp
-WebDrive
-Web-Ftp
-Jambai FTP
-ftp4net
-PHP FTP Client
+RE:Asuk PHP FTP, 
+Weeble File Manager, 
+FileZilla, 
+net2ftp, 
+WebDrive, 
+Web-Ftp, 
+Jambai FTP, 
+ftp4net, 
+PHP FTP Client, 
 
 **Hay bastantes clientes, cualquiera de estos es válido, además de ser los más conocidos**
 
