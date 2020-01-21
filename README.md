@@ -2,7 +2,7 @@
 En este tema vamos a adentrarnos de lleno al Protocolo FTP. 
 
 
-[Actividad de introducción al protocolo FTP](./FTP4/ActividadFTP.md)
+[Actividad de introducción al protocolo FTP](ActividadFTP.md)
 
 En esta actividad vamos a tocar los siguientes apartados:
 * Utilidades del servicio FTP
