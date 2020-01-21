@@ -14,6 +14,8 @@ RE:Modo Activo y Pasivo
 
 **4. ¿Por qué existen dos modos de conexión?¿Existe algún problema de seguridad en alguno de ellos?**
 
+
+
 **5. ¿En qué modo de conexión el cliente envía un comando **PASV** para establecer conexión con el servidor? ¿Y cuál
 utiliza el comando **PORT**?**
 
